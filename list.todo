@@ -1,0 +1,28 @@
+https://www.youtube.com/watch?v=vyqbNFMDRGQ
+https://youtu.be/vyqbNFMDRGQ?t=1720
+t 28:40
+
+
+✔ project setup @done(22-10-09 17:32)
+✔ create player and enemy @done(22-10-09 17:32)
+☐ move characters with event listeners
+☐ attacks
+☐ health bar interface
+☐ game timers and game onver
+
+
+
+
+
+
+
+
+
+
+
+'Cmd/Ctrl+Enter' // Triggers `Todo: Toggle Box`
+'Alt+Enter' // Triggers `Todo: Toggle Box`
+'Alt+D' // Triggers `Todo: Toggle Done`
+'Alt+C' // Triggers `Todo: Toggle Cancelled`
+'Alt+S' // Triggers `Todo: Toggle Start`
+'Cmd/Ctrl+Shift+A' // Triggers  `Todo: Archive`
